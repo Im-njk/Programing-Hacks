@@ -1,4 +1,4 @@
-# Programing-Hacks
+# **Programing-Hacks**
 Follow [Neeraj Kumawat](https://www.linkedin.com/in/neeraj-kumawat-702166191/) on Linkedin
 
 # Checking if power of 2
