@@ -1,5 +1,5 @@
 # Programing-Hacks
-Follow <img src="https://www.freeiconspng.com/img/2026" />[Neeraj Kumawat](https://www.linkedin.com/in/neeraj-kumawat-702166191/) on Linkedin
+Follow [Neeraj Kumawat](https://www.linkedin.com/in/neeraj-kumawat-702166191/) on Linkedin
 
 # Checking if power of 2
 ![checking if power of 2](https://user-images.githubusercontent.com/73936321/176991197-a6ddb2e6-9329-46c1-8dd9-8f071755ce9d.jpg )
