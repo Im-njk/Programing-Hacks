@@ -17,7 +17,7 @@ Follow <img src="https://www.freeiconspng.com/img/2026" />[Neeraj Kumawat](https
 ![Dynamic Spaces](https://user-images.githubusercontent.com/73936321/176991206-67f68751-eec6-4919-897c-5a8d9aecbaf7.jpg)
 # No  of digit
 ![No  of digit](https://user-images.githubusercontent.com/73936321/176991207-6f87cb0d-7b5f-4046-85b6-848ea5bd1d60.jpg)
-<br/># Loop optimization
+# Loop optimization
 ![loop optimization](https://user-images.githubusercontent.com/73936321/176991208-bbd2dda9-c8e5-4a81-addb-80c48ee204c0.jpg)
 
 
