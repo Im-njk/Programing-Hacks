@@ -19,5 +19,7 @@ Follow [Neeraj Kumawat](https://www.linkedin.com/in/neeraj-kumawat-702166191/) o
 ![No  of digit](https://user-images.githubusercontent.com/73936321/176991207-6f87cb0d-7b5f-4046-85b6-848ea5bd1d60.jpg)
 ## Loop optimization
 ![loop optimization](https://user-images.githubusercontent.com/73936321/176991208-bbd2dda9-c8e5-4a81-addb-80c48ee204c0.jpg)
+## min() Function
+![min() Function](https://user-images.githubusercontent.com/73936321/177023959-fe61ab69-4b30-41bf-86f5-6c0ed0390696.jpg)
 
 
